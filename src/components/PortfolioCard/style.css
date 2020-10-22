@@ -1,0 +1,15 @@
+#caption {
+  background-color: whitesmoke;
+  text-align: center;
+}
+
+@media screen and (max-width: 768px) {
+    .PortfolioCard {
+      width: 100%;
+      justify-content: center;
+      margin-left: auto;
+      margin-right: auto;
+    }
+  
+  
+  }

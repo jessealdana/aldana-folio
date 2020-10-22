@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/aldana-folio/static/css/main.9e12849f.chunk.css",
+    "main.js": "/aldana-folio/static/js/main.be09b381.chunk.js",
+    "main.js.map": "/aldana-folio/static/js/main.be09b381.chunk.js.map",
+    "runtime-main.js": "/aldana-folio/static/js/runtime-main.e9c0f58b.js",
+    "runtime-main.js.map": "/aldana-folio/static/js/runtime-main.e9c0f58b.js.map",
+    "static/js/2.b2b875ff.chunk.js": "/aldana-folio/static/js/2.b2b875ff.chunk.js",
+    "static/js/2.b2b875ff.chunk.js.map": "/aldana-folio/static/js/2.b2b875ff.chunk.js.map",
+    "index.html": "/aldana-folio/index.html",
+    "precache-manifest.68ac85596aff536d44b673209d2ccbac.js": "/aldana-folio/precache-manifest.68ac85596aff536d44b673209d2ccbac.js",
+    "service-worker.js": "/aldana-folio/service-worker.js",
+    "static/css/main.9e12849f.chunk.css.map": "/aldana-folio/static/css/main.9e12849f.chunk.css.map",
+    "static/js/2.b2b875ff.chunk.js.LICENSE.txt": "/aldana-folio/static/js/2.b2b875ff.chunk.js.LICENSE.txt",
+    "static/media/aboutBackground.jpg": "/aldana-folio/static/media/aboutBackground.3bf0ec99.jpg",
+    "static/media/boardgame.png": "/aldana-folio/static/media/boardgame.93e0a4a9.png",
+    "static/media/budget.png": "/aldana-folio/static/media/budget.3169f265.png",
+    "static/media/burgerCompendium.png": "/aldana-folio/static/media/burgerCompendium.71cb40d0.png",
+    "static/media/dinnerAndAmovie.jpg": "/aldana-folio/static/media/dinnerAndAmovie.1bb62160.jpg",
+    "static/media/imaginaryTraveler.png": "/aldana-folio/static/media/imaginaryTraveler.8771b004.png",
+    "static/media/style.css": "/aldana-folio/static/media/paper.d8fc1317.png",
+    "static/media/quiz.png": "/aldana-folio/static/media/quiz.71c63bc7.png",
+    "static/media/selfie.jpg": "/aldana-folio/static/media/selfie.989f6c97.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e9c0f58b.js",
+    "static/js/2.b2b875ff.chunk.js",
+    "static/css/main.9e12849f.chunk.css",
+    "static/js/main.be09b381.chunk.js"
+  ]
+}
