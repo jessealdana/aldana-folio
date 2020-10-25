@@ -5,7 +5,7 @@ import Jumbotron from "../Jumbotron";
 
 function Home() {
   return (
-    <div className="Container" style={{maxHeight: "200px"}}>
+    <div className="container"  >
         <Jumbotron >
 
             <img src={aboutBackground} className="img-fluid" alt="McWay Falls" /> 

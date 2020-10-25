@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/aldana-folio/static/css/main.9e12849f.chunk.css",
-    "main.js": "/aldana-folio/static/js/main.be09b381.chunk.js",
-    "main.js.map": "/aldana-folio/static/js/main.be09b381.chunk.js.map",
+    "main.css": "/aldana-folio/static/css/main.f72a988e.chunk.css",
+    "main.js": "/aldana-folio/static/js/main.87c3346b.chunk.js",
+    "main.js.map": "/aldana-folio/static/js/main.87c3346b.chunk.js.map",
     "runtime-main.js": "/aldana-folio/static/js/runtime-main.e9c0f58b.js",
     "runtime-main.js.map": "/aldana-folio/static/js/runtime-main.e9c0f58b.js.map",
     "static/js/2.b2b875ff.chunk.js": "/aldana-folio/static/js/2.b2b875ff.chunk.js",
     "static/js/2.b2b875ff.chunk.js.map": "/aldana-folio/static/js/2.b2b875ff.chunk.js.map",
     "index.html": "/aldana-folio/index.html",
-    "precache-manifest.68ac85596aff536d44b673209d2ccbac.js": "/aldana-folio/precache-manifest.68ac85596aff536d44b673209d2ccbac.js",
+    "precache-manifest.a5bb8d0a4fa8d974815203f239684104.js": "/aldana-folio/precache-manifest.a5bb8d0a4fa8d974815203f239684104.js",
     "service-worker.js": "/aldana-folio/service-worker.js",
-    "static/css/main.9e12849f.chunk.css.map": "/aldana-folio/static/css/main.9e12849f.chunk.css.map",
+    "static/css/main.f72a988e.chunk.css.map": "/aldana-folio/static/css/main.f72a988e.chunk.css.map",
     "static/js/2.b2b875ff.chunk.js.LICENSE.txt": "/aldana-folio/static/js/2.b2b875ff.chunk.js.LICENSE.txt",
     "static/media/aboutBackground.jpg": "/aldana-folio/static/media/aboutBackground.3bf0ec99.jpg",
     "static/media/boardgame.png": "/aldana-folio/static/media/boardgame.93e0a4a9.png",
     "static/media/budget.png": "/aldana-folio/static/media/budget.3169f265.png",
-    "static/media/burgerCompendium.png": "/aldana-folio/static/media/burgerCompendium.71cb40d0.png",
     "static/media/dinnerAndAmovie.jpg": "/aldana-folio/static/media/dinnerAndAmovie.1bb62160.jpg",
+    "static/media/directory.png": "/aldana-folio/static/media/directory.095712df.png",
     "static/media/imaginaryTraveler.png": "/aldana-folio/static/media/imaginaryTraveler.8771b004.png",
     "static/media/style.css": "/aldana-folio/static/media/paper.d8fc1317.png",
     "static/media/quiz.png": "/aldana-folio/static/media/quiz.71c63bc7.png",
@@ -25,7 +25,7 @@
   "entrypoints": [
     "static/js/runtime-main.e9c0f58b.js",
     "static/js/2.b2b875ff.chunk.js",
-    "static/css/main.9e12849f.chunk.css",
-    "static/js/main.be09b381.chunk.js"
+    "static/css/main.f72a988e.chunk.css",
+    "static/js/main.87c3346b.chunk.js"
   ]
 }

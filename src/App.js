@@ -7,6 +7,7 @@ import Folio from "./components/pages/Folio";
 import Contact from "./components/pages/Contact";
 import Footer from "./components/Footer";
 import Wrapper from "./components/Wrapper";
+import Container from "./components/Container"
 // import logo from './logo.svg';
 import './App.css';
 
@@ -20,6 +21,7 @@ function App() {
               <Route exact path="/about" component={About} />
               <Route exact path="/folio" component={Folio} />
               <Route path="/contact" component={Contact} />
+            <Container />
             <Footer />
           </Wrapper>
       </div>
