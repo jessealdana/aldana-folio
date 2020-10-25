@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9179c2fc36b8c658bf82f17f46ec3da7",
+    "revision": "0eb398aec5fe608f0d7cdea6eca12863",
     "url": "/aldana-folio/index.html"
   },
   {
-    "revision": "7d147c91e38f592fbd31",
-    "url": "/aldana-folio/static/css/main.9e12849f.chunk.css"
+    "revision": "d1d0d435392c509af7e9",
+    "url": "/aldana-folio/static/css/main.f72a988e.chunk.css"
   },
   {
     "revision": "78afb56a3de72a17bd0a",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/aldana-folio/static/js/2.b2b875ff.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "7d147c91e38f592fbd31",
-    "url": "/aldana-folio/static/js/main.be09b381.chunk.js"
+    "revision": "d1d0d435392c509af7e9",
+    "url": "/aldana-folio/static/js/main.87c3346b.chunk.js"
   },
   {
     "revision": "281a9f6690dfaa9191ca",
@@ -36,12 +36,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/aldana-folio/static/media/budget.3169f265.png"
   },
   {
-    "revision": "71cb40d0293575ebd6681725f5d03a8f",
-    "url": "/aldana-folio/static/media/burgerCompendium.71cb40d0.png"
-  },
-  {
     "revision": "1bb62160ee862df0154bc49162e83618",
     "url": "/aldana-folio/static/media/dinnerAndAmovie.1bb62160.jpg"
+  },
+  {
+    "revision": "095712df83ea2a021d8ddf08796b5b12",
+    "url": "/aldana-folio/static/media/directory.095712df.png"
   },
   {
     "revision": "8771b0041804614c4615b192536bfcf6",
