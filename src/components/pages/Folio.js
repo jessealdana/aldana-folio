@@ -38,6 +38,12 @@ function Portfolio() {
             <div id="caption" style={{backgroundColor: "rgb(148, 151, 151)", color: "white", width: "308px", textAlign: "center"}}>
               Virtual Walkabout
             </div>
+            {/* <div id="link" style={{backgroundColor: "rgb(148, 151, 151)", color: "white", width: "308px", textAlign: "center"}}>
+              Github Repo: https://github.com/tingtingctt/Imaginary-Traveler-Collaborated
+            </div>
+            <div id="blurb" style={{backgroundColor: "rgb(148, 151, 151)", color: "white", width: "308px", textAlign: "center"}}>
+              This app allows a user take a virtual tour, powrered by Google Maps, of the present day locations of various plot points from world literature.
+            </div> */}
           </div>  
           <div className="col-sm-6 PortfolioCard">
             <a href="https://jessealdana.github.io/Coding-Quiz/" target="_blank" rel="noopener noreferrer">              
