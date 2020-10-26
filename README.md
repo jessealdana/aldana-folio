@@ -28,8 +28,6 @@ https://jessealdana.github.io/aldana-folio/
 
  ## Usage
 
-The user scrolls through a list of parents.
-
 
  ## License
  
