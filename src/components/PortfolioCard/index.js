@@ -1,9 +1,9 @@
 import React from "react";
 import "./style.css"
 
-function PortfolioCard() {
+function PortfolioCard(props) {
     return (
-        <div className="col-sm-6 PortfolioCard" {...props} />
+        <div className="col-sm-3 PortfolioCard" {...props} />
     )
 }
 
