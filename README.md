@@ -22,7 +22,7 @@
 
  ## Installation
 
-This app is deployed on Heroku at:
+This app is deployed on Github Pages at:
 https://jessealdana.github.io/aldana-folio/
 
 
