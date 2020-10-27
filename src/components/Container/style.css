@@ -1,6 +1,6 @@
 .Container {
-    margin-left: 10%;
-    margin-right: auto;
+    margin-left: 5%;
+    margin-right: 5%;
 }
 
 @media screen and (max-width: 768px) {

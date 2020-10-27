@@ -1,8 +1,9 @@
 import React from "react";
-
+import Container from "../Container"
 
 function Contact(props) {
   return (
+    <Container>
     <div className="container" style={{paddingBottom: "50px"}}> 
 
       <h2 style={{paddingTop: "10px"}}>Contact</h2>
@@ -45,6 +46,7 @@ function Contact(props) {
 
 
 </div>
+</Container>
   );
 }
 

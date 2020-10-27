@@ -1,10 +1,10 @@
 import React from "react";
 import selfieImage from './Images/selfie.jpg';
-
+import Container from "../Container"
 
 function About() {
   return (
-
+  <Container>
   <div className="container" style={{paddingBottom: "40px"}}>
 
         <div className="row">
@@ -38,6 +38,7 @@ function About() {
       <hr />
     </div>
   </div>
+  </Container>
   );
 }
 
