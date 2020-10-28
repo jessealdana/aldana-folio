@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/aldana-folio/precache-manifest.7be88309542eaee65827bc21630f155e.js"
+  "/aldana-folio/precache-manifest.5be9c3454ee6a49c1a516aca18d25c23.js"
 );
 
 self.addEventListener('message', (event) => {
