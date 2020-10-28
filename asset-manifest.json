@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/aldana-folio/static/css/main.fdb87b0b.chunk.css",
-    "main.js": "/aldana-folio/static/js/main.27fccb3e.chunk.js",
-    "main.js.map": "/aldana-folio/static/js/main.27fccb3e.chunk.js.map",
+    "main.css": "/aldana-folio/static/css/main.3126ba03.chunk.css",
+    "main.js": "/aldana-folio/static/js/main.b8d9909f.chunk.js",
+    "main.js.map": "/aldana-folio/static/js/main.b8d9909f.chunk.js.map",
     "runtime-main.js": "/aldana-folio/static/js/runtime-main.e9c0f58b.js",
     "runtime-main.js.map": "/aldana-folio/static/js/runtime-main.e9c0f58b.js.map",
     "static/js/2.b2b875ff.chunk.js": "/aldana-folio/static/js/2.b2b875ff.chunk.js",
     "static/js/2.b2b875ff.chunk.js.map": "/aldana-folio/static/js/2.b2b875ff.chunk.js.map",
     "index.html": "/aldana-folio/index.html",
-    "precache-manifest.86340c45bec16b8e0e875d421f4c2c9c.js": "/aldana-folio/precache-manifest.86340c45bec16b8e0e875d421f4c2c9c.js",
+    "precache-manifest.6b6fc97e555781b47952ae21d6a02b1a.js": "/aldana-folio/precache-manifest.6b6fc97e555781b47952ae21d6a02b1a.js",
     "service-worker.js": "/aldana-folio/service-worker.js",
-    "static/css/main.fdb87b0b.chunk.css.map": "/aldana-folio/static/css/main.fdb87b0b.chunk.css.map",
+    "static/css/main.3126ba03.chunk.css.map": "/aldana-folio/static/css/main.3126ba03.chunk.css.map",
     "static/js/2.b2b875ff.chunk.js.LICENSE.txt": "/aldana-folio/static/js/2.b2b875ff.chunk.js.LICENSE.txt",
     "static/media/aboutBackground.jpg": "/aldana-folio/static/media/aboutBackground.3bf0ec99.jpg",
     "static/media/boardgame.png": "/aldana-folio/static/media/boardgame.93e0a4a9.png",
@@ -25,7 +25,7 @@
   "entrypoints": [
     "static/js/runtime-main.e9c0f58b.js",
     "static/js/2.b2b875ff.chunk.js",
-    "static/css/main.fdb87b0b.chunk.css",
-    "static/js/main.27fccb3e.chunk.js"
+    "static/css/main.3126ba03.chunk.css",
+    "static/js/main.b8d9909f.chunk.js"
   ]
 }
