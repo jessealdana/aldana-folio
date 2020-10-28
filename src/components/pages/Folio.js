@@ -32,33 +32,33 @@ function Portfolio() {
 
 
         <div className="row">
-          <div className="col-sm-3 PortfolioCard">
+          <PortfolioCard>
             <a href="https://imaginarytraveler4.herokuapp.com/" target="_blank" rel="noopener noreferrer">
             <img src={book} className="img-fluid" alt="Imaginary Traveler" style={{borderStyle: "solid", borderColor: "darkslategray", borderWidth: "4px"}}/>
             </a>
             <div id="caption" style={{backgroundColor: "rgb(148, 151, 151)", color: "white", width: "308px", textAlign: "center"}}>
               Imaginary Traveler
             </div>
-          </div>
+          </PortfolioCard>
           <div className="col-sm-3 InfoCard">
             <div id="link" style={{backgroundColor: "rgb(148, 151, 151)", color: "white", width: "308px", textAlign: "center"}}>
-              <a href="https://github.com/tingtingctt/Imaginary-Traveler-Collaborated" target="blank" rel="noopener noreferer">Github Repo</a>
+              <a href="https://github.com/tingtingctt/Imaginary-Traveler-Collaborated" target="blank" rel="noopener noreferrer">Github Repo</a>
             </div>
             <div id="blurb" style={{backgroundColor: "rgb(148, 151, 151)", color: "white", width: "308px", textAlign: "center"}}>
               This app allows a user take a virtual tour, powered by Google Street-View, of the present day locations of various plot points from world literature.
             </div>
           </div>  
-          <div className="col-sm-3 PortfolioCard">
+          <PortfolioCard>
             <a href="https://jessealdana.github.io/Coding-Quiz/" target="_blank" rel="noopener noreferrer">              
             <img src={quiz} className="img-fluid" alt="Coding Quiz" style={{borderStyle: "solid", borderColor: "darkslategray", borderWidth: "4px"}}/>
             </a>  
             <div id="caption" style={{backgroundColor: "rgb(148, 151, 151)", color: "white", width: "308px", textAlign: "center"}}>
               Coding Quiz
             </div>
-          </div>
+          </PortfolioCard>
           <div className="col-sm-3 InfoCard">
             <div id="link" style={{backgroundColor: "rgb(148, 151, 151)", color: "white", width: "308px", textAlign: "center"}}>             
-              <a href="https://github.com/jessealdana/Coding-Quiz" target="_blank" rel="noopener noreferer">Github Repo</a>
+              <a href="https://github.com/jessealdana/Coding-Quiz" target="_blank" rel="noopener noreferrer">Github Repo</a>
             </div>
             <div id="blurb" style={{backgroundColor: "rgb(148, 151, 151)", color: "white", width: "308px", textAlign: "center"}}>
               This app presents the user with a short quiz about the intersection of coding and popular culture.
@@ -67,33 +67,33 @@ function Portfolio() {
         </div>
         <br />
         <div className="row">
-          <div className="col-sm-3 PortfolioCard">
+          <PortfolioCard>
             <a href="https://tranquil-castle-93328.herokuapp.com" target="_blank" rel="noopener noreferrer">
             <img src={boardgame} className="img-fluid" alt="Boardgame" style={{borderStyle: "solid", borderColor: "darkslategray", borderWidth: "4px"}}/>
             </a>
             <div id="caption" style={{backgroundColor: "rgb(148, 151, 151)", color: "white", width: "308px", textAlign: "center"}}>
               Boardgame
             </div>
-          </div>
+          </PortfolioCard>
           <div className="col-sm-3 InfoCard">
             <div id="link" style={{backgroundColor: "rgb(148, 151, 151)", color: "white", width: "308px", textAlign: "center"}}>
-              <a href="https://github.com/abazrafshan/Project2Game" target="blank" rel="noopener noreferer">Github Repo</a>
+              <a href="https://github.com/abazrafshan/Project2Game" target="blank" rel="noopener noreferrer">Github Repo</a>
             </div>
             <div id="blurb" style={{backgroundColor: "rgb(148, 151, 151)", color: "white", width: "308px", textAlign: "center"}}>
               This app presents the user with a fast-paced spin on a classic boardgame.
             </div>
           </div> 
-          <div className="col-sm-3 PortfolioCard">
+          <PortfolioCard>
             <a href="https://super-dir.herokuapp.com/" target="_blank" rel="noopener noreferrer">           
               <img src={directory} className="img-fluid" alt="Parent Directory" style={{borderStyle: "solid", borderColor: "darkslategray", borderWidth: "4px"}}/>
             </a>
             <div id="caption" style={{backgroundColor: "rgb(148, 151, 151)", color: "white", width: "308px", textAlign: "center"}}>
               Parent Directory
             </div>
-          </div>
+          </PortfolioCard>
           <div className="col-sm-3 InfoCard">
             <div id="link" style={{backgroundColor: "rgb(148, 151, 151)", color: "white", width: "308px", textAlign: "center"}}>
-              <a href="https://github.com/jessealdana/super-dir" target="blank" rel="noopener noreferer">Github Repo</a>
+              <a href="https://github.com/jessealdana/super-dir" target="blank" rel="noopener noreferrer">Github Repo</a>
             </div>
             <div id="blurb" style={{backgroundColor: "rgb(148, 151, 151)", color: "white", width: "308px", textAlign: "center"}}>
               This app offers users within an elementary school community a searchable directory of parents' contact information.
@@ -102,33 +102,33 @@ function Portfolio() {
         </div>
         <br />
         <div className="row">
-        <div className="col-sm-3 PortfolioCard">
+        <PortfolioCard>
             <a href="https://sharlenemay.github.io/dinner_movie/" target="_blank" rel="noopener noreferrer">
             <img src={dinner} className="img-fluid" alt="Dinner and a Movie" style={{borderStyle: "solid", borderColor: "darkslategray", borderWidth: "4px"}}/>
             </a>
             <div id="caption" style={{backgroundColor: "rgb(148, 151, 151)", color: "white", width: "308px", textAlign: "center"}}>
               Movie and Foodie App
             </div>
-          </div>
+          </PortfolioCard>
           <div className="col-sm-3 InfoCard">
             <div id="link" style={{backgroundColor: "rgb(148, 151, 151)", color: "white", width: "308px", textAlign: "center"}}>
-              <a href="https://github.com/sharlenemay/dinner_movie" target="blank" rel="noopener noreferer">Github Repo</a>
+              <a href="https://github.com/sharlenemay/dinner_movie" target="blank" rel="noopener noreferrer">Github Repo</a>
             </div>
             <div id="blurb" style={{backgroundColor: "rgb(148, 151, 151)", color: "white", width: "308px", textAlign: "center"}}>
               This app presents users with custom search options for curating a Night Out at home.
             </div>
           </div>   
-          <div className="col-sm-3 PortfolioCard">
+          <PortfolioCard>
             <a href="https://fierce-falls-45988.herokuapp.com/" target="_blank" rel="noopener noreferrer">           
               <img src={budget} className="img-fluid" alt="Budget Tracker" style={{borderStyle: "solid", borderColor: "darkslategray", borderWidth: "4px"}}/>
             </a>
             <div id="caption" style={{backgroundColor: "rgb(148, 151, 151)", color: "white", width: "308px", textAlign: "center"}}>
               Budget Tracker
             </div>
-          </div>
+          </PortfolioCard>
           <div className="col-sm-3 InfoCard">
             <div id="link" style={{backgroundColor: "rgb(148, 151, 151)", color: "white", width: "308px", textAlign: "center"}}>
-              <a href="https://github.com/jessealdana/budget_tracker" target="blank" rel="noopener noreferer">Github Repo</a>
+              <a href="https://github.com/jessealdana/budget_tracker" target="blank" rel="noopener noreferrer">Github Repo</a>
             </div>
             <div id="blurb" style={{backgroundColor: "rgb(148, 151, 151)", color: "white", width: "308px", textAlign: "center"}}>
               This app presents a user with a graphic interface to track one's budget.

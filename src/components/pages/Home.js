@@ -7,7 +7,7 @@ import Container from "../Container"
 function Home() {
   return (
     <Container>
-      <div className="container"  >
+      <div className="container">
           <Jumbotron >
 
               <img src={aboutBackground} className="img-fluid" alt="McWay Falls" /> 
