@@ -1,8 +1,8 @@
 .Wrapper {
-    /* background-image: url(../pages/Images/paper.png);
+    background-image: url(../pages/Images/paper.png);
     height: 100vh;
 
-    background-size: 100% 100%; */
+    background-size: 100% 100%;
 }
 
 @media screen and (max-width: 1366) {
