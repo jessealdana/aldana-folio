@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/aldana-folio/static/css/main.fdb87b0b.chunk.css",
-    "main.js": "/aldana-folio/static/js/main.ab29f340.chunk.js",
-    "main.js.map": "/aldana-folio/static/js/main.ab29f340.chunk.js.map",
+    "main.js": "/aldana-folio/static/js/main.27fccb3e.chunk.js",
+    "main.js.map": "/aldana-folio/static/js/main.27fccb3e.chunk.js.map",
     "runtime-main.js": "/aldana-folio/static/js/runtime-main.e9c0f58b.js",
     "runtime-main.js.map": "/aldana-folio/static/js/runtime-main.e9c0f58b.js.map",
     "static/js/2.b2b875ff.chunk.js": "/aldana-folio/static/js/2.b2b875ff.chunk.js",
     "static/js/2.b2b875ff.chunk.js.map": "/aldana-folio/static/js/2.b2b875ff.chunk.js.map",
     "index.html": "/aldana-folio/index.html",
-    "precache-manifest.f234b22ce9688befee9d2f09e15b657e.js": "/aldana-folio/precache-manifest.f234b22ce9688befee9d2f09e15b657e.js",
+    "precache-manifest.86340c45bec16b8e0e875d421f4c2c9c.js": "/aldana-folio/precache-manifest.86340c45bec16b8e0e875d421f4c2c9c.js",
     "service-worker.js": "/aldana-folio/service-worker.js",
     "static/css/main.fdb87b0b.chunk.css.map": "/aldana-folio/static/css/main.fdb87b0b.chunk.css.map",
     "static/js/2.b2b875ff.chunk.js.LICENSE.txt": "/aldana-folio/static/js/2.b2b875ff.chunk.js.LICENSE.txt",
@@ -26,6 +26,6 @@
     "static/js/runtime-main.e9c0f58b.js",
     "static/js/2.b2b875ff.chunk.js",
     "static/css/main.fdb87b0b.chunk.css",
-    "static/js/main.ab29f340.chunk.js"
+    "static/js/main.27fccb3e.chunk.js"
   ]
 }

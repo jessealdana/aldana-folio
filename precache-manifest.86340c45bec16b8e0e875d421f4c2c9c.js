@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2f6f7bcf47f382884dd850f628192814",
+    "revision": "a10dc28429f1fb48e2b00b9794f83339",
     "url": "/aldana-folio/index.html"
   },
   {
-    "revision": "d4823f8a4aaabbf42454",
+    "revision": "c3390d527bb3b66424b3",
     "url": "/aldana-folio/static/css/main.fdb87b0b.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/aldana-folio/static/js/2.b2b875ff.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d4823f8a4aaabbf42454",
-    "url": "/aldana-folio/static/js/main.ab29f340.chunk.js"
+    "revision": "c3390d527bb3b66424b3",
+    "url": "/aldana-folio/static/js/main.27fccb3e.chunk.js"
   },
   {
     "revision": "281a9f6690dfaa9191ca",
