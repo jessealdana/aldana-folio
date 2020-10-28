@@ -15,7 +15,7 @@ function Portfolio() {
   return (
     
     <Container>
-       <div className="body" style={{paddingBottom: "20px"}}> 
+       <div className="body" style={{height: "70%", paddingBottom: "20px"}}> 
         <div className="row">
           <div className="col-sm-3">
             <h2 style={{paddingTop: "20px"}}>Portfolio</h2>
