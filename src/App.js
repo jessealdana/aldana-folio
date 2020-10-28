@@ -6,7 +6,7 @@ import About from "./components/pages/About";
 import Folio from "./components/pages/Folio";
 import Contact from "./components/pages/Contact";
 import Footer from "./components/Footer";
-import Wrapper from "./components/Wrapper";
+// import Wrapper from "./components/Wrapper";
 import Container from "./components/Container"
 // import logo from './logo.svg';
 import './App.css';
