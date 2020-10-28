@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/aldana-folio/static/css/main.e0c6dbf4.chunk.css",
+    "main.css": "/aldana-folio/static/css/main.fdb87b0b.chunk.css",
     "main.js": "/aldana-folio/static/js/main.ab29f340.chunk.js",
     "main.js.map": "/aldana-folio/static/js/main.ab29f340.chunk.js.map",
     "runtime-main.js": "/aldana-folio/static/js/runtime-main.e9c0f58b.js",
@@ -8,9 +8,9 @@
     "static/js/2.b2b875ff.chunk.js": "/aldana-folio/static/js/2.b2b875ff.chunk.js",
     "static/js/2.b2b875ff.chunk.js.map": "/aldana-folio/static/js/2.b2b875ff.chunk.js.map",
     "index.html": "/aldana-folio/index.html",
-    "precache-manifest.d8d547179670afadfb0caad8483c7b6e.js": "/aldana-folio/precache-manifest.d8d547179670afadfb0caad8483c7b6e.js",
+    "precache-manifest.f234b22ce9688befee9d2f09e15b657e.js": "/aldana-folio/precache-manifest.f234b22ce9688befee9d2f09e15b657e.js",
     "service-worker.js": "/aldana-folio/service-worker.js",
-    "static/css/main.e0c6dbf4.chunk.css.map": "/aldana-folio/static/css/main.e0c6dbf4.chunk.css.map",
+    "static/css/main.fdb87b0b.chunk.css.map": "/aldana-folio/static/css/main.fdb87b0b.chunk.css.map",
     "static/js/2.b2b875ff.chunk.js.LICENSE.txt": "/aldana-folio/static/js/2.b2b875ff.chunk.js.LICENSE.txt",
     "static/media/aboutBackground.jpg": "/aldana-folio/static/media/aboutBackground.3bf0ec99.jpg",
     "static/media/boardgame.png": "/aldana-folio/static/media/boardgame.93e0a4a9.png",
@@ -25,7 +25,7 @@
   "entrypoints": [
     "static/js/runtime-main.e9c0f58b.js",
     "static/js/2.b2b875ff.chunk.js",
-    "static/css/main.e0c6dbf4.chunk.css",
+    "static/css/main.fdb87b0b.chunk.css",
     "static/js/main.ab29f340.chunk.js"
   ]
 }
