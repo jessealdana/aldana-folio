@@ -1,3 +1,23 @@
 .Jumbotron {
     text-align: center;
 }
+
+@media screen and (max-width: 768px) {
+    .Jumbotron {
+        display: flex;
+        justify-content: center;
+        margin-left: auto;
+        margin-right: auto;
+        height: 70vh;
+    }
+    }
+
+    @media screen and (max-width: 2714px) {
+        .Jumbotron {
+            display: flex;
+            justify-content: center;
+            margin-left: auto;
+            margin-right: auto;
+            height: 90vh;
+        }
+        }
