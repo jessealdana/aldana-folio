@@ -15,7 +15,7 @@ function App() {
   return (
     <Router>
       <div>
-        <Wrapper >
+        {/* <Wrapper > */}
           <NavTabs />
               <Route exact path="/" component={Home} />
               <Route exact path="/about" component={About} />
@@ -23,7 +23,7 @@ function App() {
               <Route path="/contact" component={Contact} />
             <Container />
             <Footer />
-          </Wrapper>
+          {/* </Wrapper> */}
       </div>
     </Router>
   );

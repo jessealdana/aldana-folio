@@ -5,7 +5,7 @@ import Container from "../Container"
 function About() {
   return (
   <Container>
-  <div className="container" style={{paddingBottom: "40px"}}>
+  <div className="container" style={{height: "40vh", paddingBottom: "40px"}}>
 
         <div className="row">
           <div className="col-sm-3" style={{paddingTop: "10px"}}>
