@@ -3,7 +3,7 @@ import dinner from "./Images/dinnerAndAmovie.jpg";
 import quiz from "./Images/quiz.png";
 import boardgame from "./Images/boardgame.png";
 import directory from "./Images/directory.png";
-import book from "./Images/imaginaryTraveler.png"
+import astronomy from "./Images/astronomy.png"
 import budget from "./Images/budget.png";
 import Container from "../Container";
 import PortfolioCard from "../PortfolioCard"
@@ -33,19 +33,19 @@ function Portfolio() {
 
         <div className="row">
           <PortfolioCard>
-            <a href="https://imaginarytraveler4.herokuapp.com/" target="_blank" rel="noopener noreferrer">
-            <img src={book} className="img-fluid" alt="Imaginary Traveler" style={{borderStyle: "solid", borderColor: "darkslategray", borderWidth: "4px"}}/>
+            <a href="https://ce-akatl.herokuapp.com/" target="_blank" rel="noopener noreferrer">
+            <img src={astronomy} className="img-fluid" alt="Imaginary Traveler" style={{borderStyle: "solid", borderColor: "darkslategray", borderWidth: "4px"}}/>
             </a>
             <div id="caption" style={{backgroundColor: "rgb(148, 151, 151)", color: "white", width: "308px", textAlign: "center"}}>
-              Imaginary Traveler
+              Ce Akatl
             </div>
           </PortfolioCard>
           <div className="col-sm-3 InfoCard">
             <div id="link" style={{backgroundColor: "rgb(148, 151, 151)", color: "white", width: "308px", textAlign: "center"}}>
-              <a href="https://github.com/tingtingctt/Imaginary-Traveler-Collaborated" target="blank" rel="noopener noreferrer">Github Repo</a>
+              <a href="https://github.com/jessealdana/astronomy" target="blank" rel="noopener noreferrer">Github Repo</a>
             </div>
             <div id="blurb" style={{backgroundColor: "rgb(148, 151, 151)", color: "white", width: "308px", textAlign: "center"}}>
-              This app allows a user take a virtual tour, powered by Google Street-View, of the present day locations of various plot points from world literature.
+              This app is a compendium of knowledge on ancient Mayan astronomy with learning modules on Mayan mathematics and calendrics.
             </div>
           </div>  
           <PortfolioCard>
