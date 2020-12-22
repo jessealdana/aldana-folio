@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c14b2f81ff50e84855d53ad0c7aebb47",
+    "revision": "70252746bd51522a6ab8602d85adeeff",
     "url": "/aldana-folio/index.html"
   },
   {
-    "revision": "3b1428bdf215a495281f",
+    "revision": "5029546632c86e3020e3",
     "url": "/aldana-folio/static/css/main.3126ba03.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/aldana-folio/static/js/2.b2b875ff.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3b1428bdf215a495281f",
-    "url": "/aldana-folio/static/js/main.b8d9909f.chunk.js"
+    "revision": "5029546632c86e3020e3",
+    "url": "/aldana-folio/static/js/main.a5b23f85.chunk.js"
   },
   {
     "revision": "281a9f6690dfaa9191ca",
@@ -26,6 +26,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "3bf0ec99bb999afebca703aabf58d260",
     "url": "/aldana-folio/static/media/aboutBackground.3bf0ec99.jpg"
+  },
+  {
+    "revision": "06af04ed01215ca58c78d723a81a4925",
+    "url": "/aldana-folio/static/media/astronomy.06af04ed.png"
   },
   {
     "revision": "93e0a4a9cc4698213d3ffabfd3cf7b0a",
@@ -42,10 +46,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "095712df83ea2a021d8ddf08796b5b12",
     "url": "/aldana-folio/static/media/directory.095712df.png"
-  },
-  {
-    "revision": "8771b0041804614c4615b192536bfcf6",
-    "url": "/aldana-folio/static/media/imaginaryTraveler.8771b004.png"
   },
   {
     "revision": "d8fc13178b9a09fc45e0dd1ee8e15524",
