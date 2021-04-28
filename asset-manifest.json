@@ -1,22 +1,20 @@
 {
   "files": {
     "main.css": "/aldana-folio/static/css/main.3126ba03.chunk.css",
-    "main.js": "/aldana-folio/static/js/main.a5b23f85.chunk.js",
-    "main.js.map": "/aldana-folio/static/js/main.a5b23f85.chunk.js.map",
+    "main.js": "/aldana-folio/static/js/main.7c01db9a.chunk.js",
+    "main.js.map": "/aldana-folio/static/js/main.7c01db9a.chunk.js.map",
     "runtime-main.js": "/aldana-folio/static/js/runtime-main.e9c0f58b.js",
     "runtime-main.js.map": "/aldana-folio/static/js/runtime-main.e9c0f58b.js.map",
-    "static/js/2.b2b875ff.chunk.js": "/aldana-folio/static/js/2.b2b875ff.chunk.js",
-    "static/js/2.b2b875ff.chunk.js.map": "/aldana-folio/static/js/2.b2b875ff.chunk.js.map",
+    "static/js/2.4f7e6eed.chunk.js": "/aldana-folio/static/js/2.4f7e6eed.chunk.js",
+    "static/js/2.4f7e6eed.chunk.js.map": "/aldana-folio/static/js/2.4f7e6eed.chunk.js.map",
     "index.html": "/aldana-folio/index.html",
-    "precache-manifest.3db7d452e1cd53f45ec7a7b3b8264ef9.js": "/aldana-folio/precache-manifest.3db7d452e1cd53f45ec7a7b3b8264ef9.js",
+    "precache-manifest.b07dc7c31c359e4592ebf86e1ada9d09.js": "/aldana-folio/precache-manifest.b07dc7c31c359e4592ebf86e1ada9d09.js",
     "service-worker.js": "/aldana-folio/service-worker.js",
     "static/css/main.3126ba03.chunk.css.map": "/aldana-folio/static/css/main.3126ba03.chunk.css.map",
-    "static/js/2.b2b875ff.chunk.js.LICENSE.txt": "/aldana-folio/static/js/2.b2b875ff.chunk.js.LICENSE.txt",
+    "static/js/2.4f7e6eed.chunk.js.LICENSE.txt": "/aldana-folio/static/js/2.4f7e6eed.chunk.js.LICENSE.txt",
     "static/media/aboutBackground.jpg": "/aldana-folio/static/media/aboutBackground.3bf0ec99.jpg",
     "static/media/astronomy.png": "/aldana-folio/static/media/astronomy.06af04ed.png",
     "static/media/boardgame.png": "/aldana-folio/static/media/boardgame.93e0a4a9.png",
-    "static/media/budget.png": "/aldana-folio/static/media/budget.3169f265.png",
-    "static/media/dinnerAndAmovie.jpg": "/aldana-folio/static/media/dinnerAndAmovie.1bb62160.jpg",
     "static/media/directory.png": "/aldana-folio/static/media/directory.095712df.png",
     "static/media/style.css": "/aldana-folio/static/media/paper.d8fc1317.png",
     "static/media/quiz.png": "/aldana-folio/static/media/quiz.71c63bc7.png",
@@ -24,8 +22,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.e9c0f58b.js",
-    "static/js/2.b2b875ff.chunk.js",
+    "static/js/2.4f7e6eed.chunk.js",
     "static/css/main.3126ba03.chunk.css",
-    "static/js/main.a5b23f85.chunk.js"
+    "static/js/main.7c01db9a.chunk.js"
   ]
 }
