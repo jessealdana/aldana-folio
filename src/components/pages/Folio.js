@@ -1,10 +1,10 @@
 import React from "react";
-import dinner from "./Images/dinnerAndAmovie.jpg";
+// import dinner from "./Images/dinnerAndAmovie.jpg";
 import quiz from "./Images/quiz.png";
 import boardgame from "./Images/boardgame.png";
 import directory from "./Images/directory.png";
 import astronomy from "./Images/astronomy.png"
-import budget from "./Images/budget.png";
+// import budget from "./Images/budget.png";
 import Container from "../Container";
 import PortfolioCard from "../PortfolioCard"
 
@@ -101,7 +101,7 @@ function Portfolio() {
           </div> 
         </div>
         <br />
-        <div className="row">
+        {/* <div className="row">
         <PortfolioCard>
             <a href="https://sharlenemay.github.io/dinner_movie/" target="_blank" rel="noopener noreferrer">
             <img src={dinner} className="img-fluid" alt="Dinner and a Movie" style={{borderStyle: "solid", borderColor: "darkslategray", borderWidth: "4px"}}/>
@@ -134,7 +134,7 @@ function Portfolio() {
               This app presents a user with a graphic interface to track one's budget.
             </div>
           </div> 
-        </div>
+        </div> */}
       </div>
     </Container>
   );

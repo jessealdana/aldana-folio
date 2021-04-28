@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c14b2f81ff50e84855d53ad0c7aebb47",
+    "revision": "09c06c110d93119539714982c8ffef1a",
     "url": "/aldana-folio/index.html"
   },
   {
-    "revision": "3b1428bdf215a495281f",
+    "revision": "248acf0161978b18c8e8",
     "url": "/aldana-folio/static/css/main.3126ba03.chunk.css"
   },
   {
-    "revision": "78afb56a3de72a17bd0a",
-    "url": "/aldana-folio/static/js/2.b2b875ff.chunk.js"
+    "revision": "d2b20f26ccb65f690964",
+    "url": "/aldana-folio/static/js/2.4f7e6eed.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/aldana-folio/static/js/2.b2b875ff.chunk.js.LICENSE.txt"
+    "url": "/aldana-folio/static/js/2.4f7e6eed.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3b1428bdf215a495281f",
-    "url": "/aldana-folio/static/js/main.b8d9909f.chunk.js"
+    "revision": "248acf0161978b18c8e8",
+    "url": "/aldana-folio/static/js/main.7c01db9a.chunk.js"
   },
   {
     "revision": "281a9f6690dfaa9191ca",
@@ -28,24 +28,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/aldana-folio/static/media/aboutBackground.3bf0ec99.jpg"
   },
   {
+    "revision": "06af04ed01215ca58c78d723a81a4925",
+    "url": "/aldana-folio/static/media/astronomy.06af04ed.png"
+  },
+  {
     "revision": "93e0a4a9cc4698213d3ffabfd3cf7b0a",
     "url": "/aldana-folio/static/media/boardgame.93e0a4a9.png"
   },
   {
-    "revision": "3169f265c78517fa86d52ff91c74b19e",
-    "url": "/aldana-folio/static/media/budget.3169f265.png"
-  },
-  {
-    "revision": "1bb62160ee862df0154bc49162e83618",
-    "url": "/aldana-folio/static/media/dinnerAndAmovie.1bb62160.jpg"
-  },
-  {
     "revision": "095712df83ea2a021d8ddf08796b5b12",
     "url": "/aldana-folio/static/media/directory.095712df.png"
-  },
-  {
-    "revision": "8771b0041804614c4615b192536bfcf6",
-    "url": "/aldana-folio/static/media/imaginaryTraveler.8771b004.png"
   },
   {
     "revision": "d8fc13178b9a09fc45e0dd1ee8e15524",
